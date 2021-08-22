@@ -8,8 +8,9 @@ def telegram(message):
     
     inputs : message
     """
-    token = '<bot-token>'
-    requests.get(f'https://api.telegram.org/bot{token}/sendMessage?chat_id=973440196&text={message}&parse_mode=HTML')
+    token = '<bot_token>'
+    chat_id = '<chat_id>'
+    requests.get(f'https://api.telegram.org/bot{token}/sendMessage?chat_id={chat_id}&text={message}&parse_mode=HTML')
 
 district_id = "581" # For Hyderabad
 date = "20-06-2021" # Enter date based on your requirement
