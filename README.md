@@ -1,5 +1,7 @@
 # COWIN Vaccine Slot Informer
 
+![](banner.png)
+
 This script helped me book a slot for taking the SPUTNIK-V Vaccine. It checks for the availability of slots every second and spams your telegram with notifications once a slot is available. I ran it on my Linux server for about a week, and I could finally book a slot.
 
 Sputnik-V Vaccine slots were pretty hard to book during the months after Summer. They would be gone within minutes after the bookings have opened on [COWIN](https://www.cowin.gov.in/). I only wanted to take the Sputnik vaccine.
