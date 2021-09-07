@@ -1,4 +1,4 @@
-# COWIN Vaccine Slot Informer
+# COWIN COVID-19 Sputnik Vaccine Slot Informer
 
 ![](banner.png)
 
